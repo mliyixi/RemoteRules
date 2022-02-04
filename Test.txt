@@ -1,2 +1,3 @@
 payload:
- - DOMAIN,rouman5.com
+ - 'rouman5.com'
+ - '265.com'
