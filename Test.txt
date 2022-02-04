@@ -1,3 +1,3 @@
 payload:
- - '*.rouman5.com'
- - '*.265.com'
+ - DOMAIN-SUFFIX,rouman5.com
+ - DOMAIN-SUFFIX,265.com
