@@ -1,2 +1,2 @@
 payload:
-  - '+.0.rouman5.com'
+  - '+.rouman5.com'
